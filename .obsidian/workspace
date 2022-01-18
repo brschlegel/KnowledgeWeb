@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "5bb96ac590aeb25c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee675be40b6cee1a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Engine Notes/Desired Features.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2aee25cd59add497",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aeef28515f2b9bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b851a6e7dbd82c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba0c29cc279101bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db28ab383aadf474",
+    "type": "split",
+    "children": [
+      {
+        "id": "d88533c918eb2cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f3a414fa10036e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Engine Notes/Desired Features.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ee675be40b6cee1a",
+  "lastOpenFiles": [
+    "Engine Notes/Desired Features.md",
+    "C++ Libraries/Delegates.md",
+    "MultiMouse.md",
+    "Procedural Generation.md",
+    "Engine notes/Engine Notes.md",
+    "C++ Libraries/Boost.md",
+    "C++ Libraries.md",
+    "C++ Libraries/Loki.md"
+  ]
+}
