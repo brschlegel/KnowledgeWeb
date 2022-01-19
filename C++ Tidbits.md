@@ -1,0 +1,2 @@
+### Inline 
+Instead of calling function, it just expands the function right in the code. This means things aren't shoved on the stack. Should be used on smaller functions, as larger functions will use too much memory. It also increases the size of the executable as the code is repeated. Allows the compiler to do certain optomizations, but they won't be shown in Debug modes.
