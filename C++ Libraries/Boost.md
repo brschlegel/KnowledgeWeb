@@ -1,2 +1,2 @@
 # Boost 
-Boost is a data structures and algorithms library for C++. Designed in the style of STL as an extension of its capabilities.
+Boost is a data structures and algorithms library for C++. Designed in the style of STL as an extension of its capabilities. It has a very large amount of libraries for use, but its documentation is very lacking. Even just looking through it, its alot. I've read some reports of it being hard to learn, which my first impressions agree with.
