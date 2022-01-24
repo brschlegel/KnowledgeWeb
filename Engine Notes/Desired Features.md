@@ -6,3 +6,6 @@ In terms of profiling, I believe Visual Studio should provide everything we need
 
 ### Event System
 An event system is always helpful for decoupling systems, and allowing objects to be customized with different events and delegates. Using the [[Delegates]] library should provide a powerful starting point.
+
+### Map grid system
+It seems like having a grid system for our levels and maps would simplify things for some procedural generation stuff. Maybe toggle-able, as not all types of games would want this grid?

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++ Libraries/Box2D.md",
+            "file": "C++ Tidbits.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Libraries/Box2D.md",
+                "file": "C++ Tidbits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ee675be40b6cee1a",
   "lastOpenFiles": [
-    "C++ Libraries/Box2D.md",
-    "C++ Libraries/Boost.md",
-    "Unity Notes/Coroutines.md",
     "C++ Tidbits.md",
-    "Procedural Generation.md",
     "MultiMouse.md",
+    "Unity Notes/Coroutines.md",
+    "Engine Notes/Entity Component Systems.md",
     "Engine Notes/Desired Features.md",
+    "Engine Notes/Composition vs Inheritance.md",
+    "Design Patterns/Singleton.md",
     "C++ Libraries/Delegates.md",
-    "Engine notes/Engine Notes.md",
-    "C++ Libraries.md"
+    "C++ Libraries/Box2D.md",
+    "C++ Libraries/Boost.md"
   ]
 }
