@@ -3,4 +3,4 @@ Mainly following the principle of [[Composition vs Inheritance | Composition ove
 
 ## Data driven approach
 source: https://medium.com/@savas/nomad-game-engine-part-2-ecs-9132829188e5
-Entities are simply an int id, and components are simply data containers
+Entities are simply an int id, and components are simply data containers. Each component has its own manager that handles the functionality using arrays of components. This is done so that in memory, things are stored contiguously, which is more effectient than the entities holding their own components.
