@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unity Notes/Coroutines.md",
+            "file": "ThatDamnGoat.md",
             "mode": "source",
             "source": false
           }
@@ -53,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 358
   },
   "right": {
     "id": "db28ab383aadf474",
     "type": "split",
     "children": [
       {
-        "id": "d88533c918eb2cf7",
+        "id": "c06e5f08e23887a5",
         "type": "tabs",
         "children": [
           {
-            "id": "c3f3a414fa10036e",
+            "id": "ed4fbc1b66d9e5c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity Notes/Coroutines.md",
+                "file": "ThatDamnGoat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ee675be40b6cee1a",
   "lastOpenFiles": [
-    "Unity Notes/Coroutines.md",
-    "Engine Notes/Entity Component Systems.md",
-    "Engine Notes/Composition vs Inheritance.md",
-    "C++ Tidbits.md",
+    "ThatDamnGoat.md",
+    "Project Ideas.md",
+    "Procedural Generation.md",
     "MultiMouse.md",
+    "Unity Notes/Character Controllers.md",
+    "Engine Notes/Entity Component Systems.md",
     "Engine Notes/Desired Features.md",
+    "Engine Notes/Composition vs Inheritance.md",
     "Design Patterns/Singleton.md",
-    "C++ Libraries/Delegates.md",
-    "C++ Libraries/Box2D.md",
-    "C++ Libraries/Boost.md"
+    "C++ Tidbits.md"
   ]
 }
