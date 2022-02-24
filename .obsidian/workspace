@@ -53,18 +53,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358
+    "width": 300
   },
   "right": {
     "id": "db28ab383aadf474",
     "type": "split",
     "children": [
       {
-        "id": "c06e5f08e23887a5",
+        "id": "d88533c918eb2cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "ed4fbc1b66d9e5c7",
+            "id": "c3f3a414fa10036e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -90,14 +90,14 @@
   "active": "ee675be40b6cee1a",
   "lastOpenFiles": [
     "ThatDamnGoat.md",
-    "Project Ideas.md",
-    "Procedural Generation.md",
     "MultiMouse.md",
-    "Unity Notes/Character Controllers.md",
+    "Procedural Generation.md",
     "Engine Notes/Entity Component Systems.md",
     "Engine Notes/Desired Features.md",
     "Engine Notes/Composition vs Inheritance.md",
-    "Design Patterns/Singleton.md",
-    "C++ Tidbits.md"
+    "C++ Libraries/Delegates.md",
+    "Unity Notes/Coroutines.md",
+    "C++ Libraries/Boost.md",
+    "C++ Libraries/Box2D.md"
   ]
 }
