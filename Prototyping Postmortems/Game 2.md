@@ -1,0 +1,21 @@
+# Description 
+For this game we had to make a platformer. Our game was called Chick-Boy, a standard 2D platformer, with a unique boost mechanic. The boost gives you an impulse in the direction of your current velocity, and shoots an egg out in the opposite direction. When the egg hits the ground, it spawns a chick that must be protected. In addition, you must get a certain number of chicks to the end of the level in order to beat it.
+
+## Brainstorming
+Brainstorming was tough. I'm not a huge platformer guy, and my team wasn't really pitching anything interesting. I knew that we would have to get art assets from online as none of use were keen on doing any art, so I decided to try to look at assets available to us to see what games I could make from those. I've been thinking alot about 2D recoil movement/physics boost based movement for a while now, and so when I saw Chick-Boy, the idea of shooting eggs as a boost came fairly naturally. Subsequently it followed to have chicks hatching from the eggs, and I thought of Mario vs Donkey Kong, where you have to manage all the little marios to make it to the end. Managing the chicks would add a layer onto just platforming that seemed interesting
+
+## Design
+I was hoping for a more frantic and technical experience, where the player is platforming and at the same time trying to keep their chicks alive, but this didn't really come to fruition. We had to limit the number of boosts you could use, as if we didn't, players would just get to the end and boost right on top of the door. Limiting the boosts turned it more into a puzzle game than a high speed game, which was fine, but not ideal. We had to limit the boosts because we wanted the players to get a certain number of chicks to the door, which I am not sure was a good mechanic. Most players just went, killed all the enemies, and then threw the chickens towards the door, almost as an afterthought. Overall I think there are several reasons the game did not get the fast-paced results I wanted
+- Enemies were contained and predictable
+	- Foxes would stay on their platforms, meaning you could be very sure that a chick was safe
+	- Birds weren't restricted by this, but they were hardly ever used
+- Levels were built with a puzzle game in mind
+- Needing to bring some chicks to the door almost neccesitates backtracking
+
+### The Boost Question
+The boost in the game operates by increasing the magnitude of the velocity, directly along its direction. This means if you are falling, the boost shoots you down faster. I kept this in because I was hoping people would use it to lob the eggs over walls, but during the playtest people found it quite unintuitive. Its worth noting that they could not kill enemies by jumping on their heads, so if they shot straight down at them it would just end the game. Looking back, I think I would stick with my decision, and maybe build a level with that motion in mind to teach the player exactly how the mechanic works.
+
+## The Incident
+One of my teammates for this project had used Unity for a job before. God he was awful at it though. His code was unreadable, almost everything was static, it was a huge mess. My other two teammates both wanted to be level designers, on a game where there is only one level. To top that off, neither of our designers wanted to go anywhere near anything engine side. This all combined to produce me making about 90% of the game. Every single due date I set for the team, we missed it, due to other teammates procrastination. Eventually, I threw my hands up, and told my teammates to fix it or not, I don't care I will turn in a broken project if I must. In the end I believe they managed to fix it, although I have no idea for sure.
+### Do I Even Care?
+I've been thinking about what I was going to write out here for a while now, hell even the idea to write these postmortems came from this incident. Looking back on it though 4 weeks later, I just don't really care. I've talked with a decent amount of people about the details, including Simkins, and I don't think I would do anything differently if I were to go back. Sure I would keep a closer eye on Aditya's code, but I think I handled the situation well all things considered. 
