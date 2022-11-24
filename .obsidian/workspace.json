@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ee675be40b6cee1a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Overwatch Meta 11-2-22.md",
-            "mode": "source",
-            "source": false
+        "id": "201ef4c08da47d87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee675be40b6cee1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overwatch Meta 11-2-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
