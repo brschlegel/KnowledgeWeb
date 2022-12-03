@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overwatch Meta 11-2-22.md",
+                "file": "Unity Notes/Coroutines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "352344e04b02a0b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20c9d22c8117ffd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity Notes/BenBehavior.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overwatch Meta 11-2-22.md",
+                "file": "Unity Notes/BenBehavior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee675be40b6cee1a",
+  "active": "20c9d22c8117ffd5",
   "lastOpenFiles": [
-    "Overwatch Meta 11-2-22.md",
     "Project Ideas.md",
+    "Unity Notes/Hierarchies aren't strict for Entities.md",
+    "Design Notes/FPS/Overwatch Meta 11-2-22.md",
     "Game Achievement Goals.md",
-    "Software Design Patterns/Singleton.md",
-    "C++ Libraries/Delegates.md",
-    "C++ Libraries/Box2D.md",
-    "C++ Libraries/Boost.md",
-    "Engine Notes/Entity Component Systems.md",
-    "Engine Notes/Desired Features.md",
-    "Engine Notes/Composition vs Inheritance.md"
+    "Unity Notes/Coroutines.md",
+    "Unity Notes/Character Controllers.md",
+    "Prototyping Postmortems/Game 2.md",
+    "Prototyping Postmortems/Game 6.md",
+    "Prototyping Postmortems/Game 5.md",
+    "Prototyping Postmortems/Game 4.md"
   ]
 }
