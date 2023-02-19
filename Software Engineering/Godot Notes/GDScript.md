@@ -1,0 +1,3 @@
+## Static Typing
+https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/static_typing.html
+Static GDScript, while it looks harder, is way better to use. Getting auto-complete, especially when dealing with an engine thats unknown to you is very helpful, and I prefer static typing anyway. Ran into an issue where I could not declare an array as a type because of what I believe was a circular dependency. Nicer than C++ because I can just make it dynamic, but still not really a fan of that.

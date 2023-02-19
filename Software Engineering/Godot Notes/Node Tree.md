@@ -1,0 +1,2 @@
+## Managing dependencies of child nodes
+There are times we are making a node that either needs information from its parent to do its job, or needs to be notified of when a parent does something. For the first example, an explode script taht can be applied to all objects would need to know where in the node tree that object "stops". A spawner attachment script would need to know when a spawner spawns an object, and likely have a reference to that spawned object

@@ -8,43 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee675be40b6cee1a",
+            "id": "ad988555b82675bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity Notes/Coroutines.md",
+                "file": "Software Engineering/Godot Notes/Best Practices.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "352344e04b02a0b4",
+            "id": "7908cb862eae8c47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Ideas.md",
+                "file": "Software Engineering/Declarative vs Impertative Programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "20c9d22c8117ffd5",
+            "id": "e485b13ddd4d8770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity Notes/BenBehavior.md",
+                "file": "Software Engineering/Game Architecture Research/Threads to pull on.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7533b409b536ba4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-02-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69a0f88d77e3a5cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-02-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75b7e65a7c60d2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Godot Notes/General Thoughts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity Notes/BenBehavior.md",
+                "file": "Daily Notes/2023-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +156,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20c9d22c8117ffd5",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "69a0f88d77e3a5cc",
   "lastOpenFiles": [
-    "Project Ideas.md",
-    "Unity Notes/Hierarchies aren't strict for Entities.md",
-    "Design Notes/FPS/Overwatch Meta 11-2-22.md",
-    "Game Achievement Goals.md",
-    "Unity Notes/Coroutines.md",
-    "Unity Notes/Character Controllers.md",
-    "Prototyping Postmortems/Game 2.md",
-    "Prototyping Postmortems/Game 6.md",
-    "Prototyping Postmortems/Game 5.md",
-    "Prototyping Postmortems/Game 4.md"
+    "Postmortems/When Push Comes to Shove.md",
+    "Daily Notes/2023-02-19.md",
+    "Postmortems/MultiMouse.md",
+    "Postmortems/ThatDamnGoat.md",
+    "Software Engineering/Game Architecture Research/New descriptor of coupling.md",
+    "Software Engineering/Godot Notes/General Thoughts.md",
+    "Software Engineering/Godot Notes/Best Practices.md",
+    "Software Engineering/Godot Notes/General Tidbits.md",
+    "Software Engineering/Godot Notes/Instancing.md",
+    "Software Engineering/Godot Notes/Making UI.md"
   ]
 }

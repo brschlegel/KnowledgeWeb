@@ -1,0 +1,3 @@
+Source: https://en.wikipedia.org/wiki/Duck_typing
+
+"If it walks like a duck, and it quacks like a duck, it must be a duck". Rather than checking for a type to see if a given function or varaible is valid, duck typing checks if the type itself has the specific method or property you are trying to call. While interfaces like in C# define specific methods and properties to be guarenteed, in duck typed languages the interface is unnecessary, you can simply ask "does this object have a method quack()".
