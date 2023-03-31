@@ -28,3 +28,19 @@
 - Bruh no debug draw??????
 - Scenes should generally be testable on their own, but scripts and nodes dont have to be
 - Remote Transform is a really interesting idea, "Scene Tree should be thought of on relational terms rather than spatial ones" [[Best Practices#Proposed Node Tree Structure]]
+## Week 6
+- TIlemap stuff seems intuitive enough
+- Adding collision to tiles is easy 
+- 2d navmesh :)
+- Agents are only an implementation of the navigation API, can make your own
+- make sure to save parent scenes to have changes in child scene
+## Week 7
+- C# has been going well
+- Have to rebuild godot manually for exports and signal names
+- Benefits of signal over regular c# event?
+- Getting the debugger in vscode to work has been a pain
+- The workflow is still a bit unfamiliar, im sure switching between scenes so much will eventually feel better
+- Can call C# methods from GDScript with the .call() method
+## Week 10 (lol)
+- Dont get too bogged down in parent child relations. Nodes can reference siblings its alright
+- https://www.youtube.com/watch?v=rCu8vQrdDDI&ab_channel=FirebelleyGames

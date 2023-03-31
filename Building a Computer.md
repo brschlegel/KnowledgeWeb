@@ -1,5 +1,5 @@
 ## Monitors
-Is 4K worth it?
+Is 4K worth it? Yes
 **Refresh rate:** How many times per second the display is able to draw a new image. 144Hz is a good number, 240 seems to be a high end option.
 **Response time:** The amount of time it takes for pixels to change from one color to the next. 1 ms is a good number, 5ms seems to be the standard. Probably won't notice the difference between 5ms and 1ms, some answers are saying there isn't a real difference at all. 
 **Curvature:** I like my curved monitor, not really sure how huge of a difference it makes but its worth looking at

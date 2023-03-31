@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Game Architecture Research/Threads to pull on.md",
+                "file": "Daily Notes/2023-03-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-02-19.md",
+                "file": "Software Engineering/Godot Notes/General Thoughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3aa5b87e75860d84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Focus and Productivity/One Sec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efe0b36d1d0e0e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-03-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-02-19.md",
+                "file": "Daily Notes/2023-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,17 +190,34 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "69a0f88d77e3a5cc",
+  "active": "e485b13ddd4d8770",
   "lastOpenFiles": [
-    "Postmortems/When Push Comes to Shove.md",
-    "Daily Notes/2023-02-19.md",
-    "Postmortems/MultiMouse.md",
-    "Postmortems/ThatDamnGoat.md",
+    "Daily Notes/2023-02-27.md",
+    "Software Engineering/Game Architecture Research/Threads to pull on.md",
+    "Software Engineering/Game Architecture Research/Standard Coupling Ranking.md",
+    "Software Engineering/Game Architecture Research/Software Modules.md",
+    "Software Engineering/Game Architecture Research/Research Question.md",
     "Software Engineering/Game Architecture Research/New descriptor of coupling.md",
-    "Software Engineering/Godot Notes/General Thoughts.md",
-    "Software Engineering/Godot Notes/Best Practices.md",
-    "Software Engineering/Godot Notes/General Tidbits.md",
+    "Software Engineering/Game Architecture Research/Information Flow.md",
+    "Software Engineering/Godot Notes/Languages.md",
     "Software Engineering/Godot Notes/Instancing.md",
-    "Software Engineering/Godot Notes/Making UI.md"
+    "Software Engineering/Godot Notes/General Thoughts.md",
+    "Software Engineering/Godot Notes/Signals.md",
+    "Software Engineering/Godot Notes/Node Tree.md",
+    "Building a Computer.md",
+    "Focus and Productivity/Task Transitions.md",
+    "Daily Notes/2023-02-19.md",
+    "Daily Notes/2023-03-16.md",
+    "Focus and Productivity/One Sec.md",
+    "Focus and Productivity/Flow State (Unwritten).md",
+    "Focus and Productivity/Desk Clutter (Unwritten).md",
+    "Postmortems/ThatDamnGoat.md",
+    "Postmortems/When Push Comes to Shove.md",
+    "Focus and Productivity",
+    "Software Engineering/Godot Notes/Term Reference Guide.md",
+    "Software Engineering/Engine Notes/Desired Features.md",
+    "Software Engineering/Engine Notes/Entity Component Systems.md",
+    "Software Engineering/Engine Notes/Composition vs Inheritance.md",
+    "Software Engineering/Godot Notes/Best Practices.md"
   ]
 }

@@ -1,0 +1,12 @@
+One of the biggest tiem wasters I suffer with is transitioning between tasks. Often times I use the very brief lull between tasks to get up and take a quick walk around the house, check my phone, grab a drink, etc. Really any excuse I can come up with. And while there isn't really anything wrong with taking a break, when my work consists of many small tasks, these breaks eat up a significant amount of time
+## Taking a walk
+---
+The worst of these offenders used to be scrolling social media, but with [[One Sec]] I got a pretty decent handle on this. Now the worst offender is getting up to take a quick walk around the house, mess with Sofi, etc. I've been trying to mitigate this by consciously making a decision to stay put when I feel the urge to stand up, and I think its been helping, at least when I'm writing this. 
+## To do list?
+I think a very helpful tool for keeping me moving from task to task effectively would be a todo list. With a todo list rather than there being this mental break where I have to decide what is next up, during the lull between tasks I am simply looking at the to do list and choosing the next up on the block. I am hoping that this will allow me to quickly transition without any kind of distraction. Of course, at work and the like we have JIRA, but I don't actually know if JIRA is granular enough at times or convenient enough for what I have in mind. Some tasks are multiple tasks brought together, some tasks are more research like where I have to look into certain aspects, etc.
+### Tool?
+The tool needs to be convenient, flexible, and ideally very temporary for it to work here.
+#### Pen and Paper
+The simplest and likely most flexible tool would likely just be a pen and paper for creating quick lists and modifing them rapidly, but do require me to keep something else on my desk ([[Desk Clutter (Unwritten)]]), and takes my hand off my keyboard (not sure how much that one matters). It is also very temporary in the sense that individual papers don't really carry any sort of signfigance. I do have a notepad that I use to jot down ideas that I refer back to at times, and I am not sure if I want to clutter that. 
+#### Notepad
+Unnamed notepad files have some potential for sure. They are on the computer so easy enough to reference, temporary in that they aren't saved, and can be rapidly and easily modified. I'm really not sure how necessary physically crossing things off on the todo list is, probably have to try implementing it to find out.

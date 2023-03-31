@@ -6,3 +6,5 @@ Like alot of Godot, the way you get references to which signal to connect to and
 You can connect to a signal through code or through the engine GUI. It actually shows in the code editor that a method is connected to a signal which is handy, but connection through code still might be more traceable.
 ## GDScript
 Creating signals in GDScript is pretty damn easy, all you do is say `signal signal_name`. When you do it like this its all hooked up in the editor as well and you can register to signals using the GUI
+## Comparison To Events
+Right now when I am using C# its fairly unclear as to why I would make a signal rather than an event or an action. I guess the syntax is probably cleaner once I get used to it.
