@@ -7,3 +7,6 @@ What aspects of our code base am I happy with? What am I not super thrilled abou
 
 How does specifictity play into the 3 characterstics [[Research General Structure#Characteristics]]
 Unity input system?
+
+Events for hooks vs Calling methods(Minigame Logic Style)
+Clarity vs Coupling

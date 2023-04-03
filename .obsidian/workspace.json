@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-03-16.md",
+                "file": "Software Engineering/Game Architecture Research/Research General Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d7efd8930fef160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Game Architecture Research/Threads to pull on.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-03-16.md",
+                "file": "Software Engineering/Game Architecture Research/Threads to pull on.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,13 +202,18 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e485b13ddd4d8770",
+  "active": "9d7efd8930fef160",
   "lastOpenFiles": [
+    "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
+    "Software Engineering/Game Architecture Research/Case Studies",
+    "Software Engineering/Game Architecture Research/Research General Structure.md",
+    "Software Engineering/Game Architecture Research/Overview.md",
+    "Software Engineering/Game Architecture Research/Research Question.md",
+    "Daily Notes/2023-03-16.md",
     "Daily Notes/2023-02-27.md",
     "Software Engineering/Game Architecture Research/Threads to pull on.md",
     "Software Engineering/Game Architecture Research/Standard Coupling Ranking.md",
     "Software Engineering/Game Architecture Research/Software Modules.md",
-    "Software Engineering/Game Architecture Research/Research Question.md",
     "Software Engineering/Game Architecture Research/New descriptor of coupling.md",
     "Software Engineering/Game Architecture Research/Information Flow.md",
     "Software Engineering/Godot Notes/Languages.md",
@@ -207,17 +224,12 @@
     "Building a Computer.md",
     "Focus and Productivity/Task Transitions.md",
     "Daily Notes/2023-02-19.md",
-    "Daily Notes/2023-03-16.md",
     "Focus and Productivity/One Sec.md",
     "Focus and Productivity/Flow State (Unwritten).md",
     "Focus and Productivity/Desk Clutter (Unwritten).md",
     "Postmortems/ThatDamnGoat.md",
     "Postmortems/When Push Comes to Shove.md",
     "Focus and Productivity",
-    "Software Engineering/Godot Notes/Term Reference Guide.md",
-    "Software Engineering/Engine Notes/Desired Features.md",
-    "Software Engineering/Engine Notes/Entity Component Systems.md",
-    "Software Engineering/Engine Notes/Composition vs Inheritance.md",
-    "Software Engineering/Godot Notes/Best Practices.md"
+    "Software Engineering/Godot Notes/Term Reference Guide.md"
   ]
 }
