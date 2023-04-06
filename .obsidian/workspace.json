@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Game Architecture Research/Threads to pull on.md",
+                "file": "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bae4854d040d9a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Game Architecture Research/Case Studies/Unreal Gameplay Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Game Architecture Research/Threads to pull on.md",
+                "file": "Software Engineering/Game Architecture Research/Case Studies/Unreal Gameplay Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,19 +214,20 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "9d7efd8930fef160",
+  "active": "bae4854d040d9a5f",
   "lastOpenFiles": [
-    "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
-    "Software Engineering/Game Architecture Research/Case Studies",
+    "Software Engineering/Game Architecture Research/New descriptor of coupling.md",
     "Software Engineering/Game Architecture Research/Research General Structure.md",
+    "Software Engineering/Game Architecture Research/Standard Coupling Ranking.md",
+    "Software Engineering/Game Architecture Research/Case Studies/Unreal Gameplay Framework.md",
+    "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
+    "Software Engineering/Game Architecture Research/Software Modules.md",
+    "Software Engineering/Game Architecture Research/Threads to pull on.md",
+    "Software Engineering/Game Architecture Research/Case Studies",
     "Software Engineering/Game Architecture Research/Overview.md",
     "Software Engineering/Game Architecture Research/Research Question.md",
     "Daily Notes/2023-03-16.md",
     "Daily Notes/2023-02-27.md",
-    "Software Engineering/Game Architecture Research/Threads to pull on.md",
-    "Software Engineering/Game Architecture Research/Standard Coupling Ranking.md",
-    "Software Engineering/Game Architecture Research/Software Modules.md",
-    "Software Engineering/Game Architecture Research/New descriptor of coupling.md",
     "Software Engineering/Game Architecture Research/Information Flow.md",
     "Software Engineering/Godot Notes/Languages.md",
     "Software Engineering/Godot Notes/Instancing.md",
