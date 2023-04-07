@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "cf22d9896db260b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Game Architecture Research/Decoupling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7533b409b536ba4d",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -186,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Game Architecture Research/Case Studies/Unreal Gameplay Framework.md",
+                "file": "Software Engineering/Game Architecture Research/Decoupling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,12 +226,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "bae4854d040d9a5f",
+  "active": "cf22d9896db260b6",
   "lastOpenFiles": [
     "Software Engineering/Game Architecture Research/New descriptor of coupling.md",
+    "Software Engineering/Game Architecture Research/Decoupling.md",
+    "Software Engineering/Game Architecture Research/Case Studies/Unreal Gameplay Framework.md",
     "Software Engineering/Game Architecture Research/Research General Structure.md",
     "Software Engineering/Game Architecture Research/Standard Coupling Ranking.md",
-    "Software Engineering/Game Architecture Research/Case Studies/Unreal Gameplay Framework.md",
     "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
     "Software Engineering/Game Architecture Research/Software Modules.md",
     "Software Engineering/Game Architecture Research/Threads to pull on.md",
@@ -242,7 +255,6 @@
     "Focus and Productivity/Desk Clutter (Unwritten).md",
     "Postmortems/ThatDamnGoat.md",
     "Postmortems/When Push Comes to Shove.md",
-    "Focus and Productivity",
-    "Software Engineering/Godot Notes/Term Reference Guide.md"
+    "Focus and Productivity"
   ]
 }
