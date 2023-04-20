@@ -10,3 +10,5 @@ Unity input system?
 
 Events for hooks vs Calling methods(Minigame Logic Style)
 Clarity vs Coupling
+
+How do we define Extensibility, Flexibility, and Maintainability in terms of modules and coupling. 
