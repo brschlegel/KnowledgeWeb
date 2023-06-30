@@ -4,179 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "201ef4c08da47d87",
+        "id": "97b4665c48370fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "ad988555b82675bf",
+            "id": "53515c7e1e242789",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Godot Notes/Best Practices.md",
+                "file": "Postmortems/When Push Comes to Shove.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7908cb862eae8c47",
+            "id": "8cab3e6c4e7c5513",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Declarative vs Impertative Programming.md",
+                "file": "Climbing/Vertical Pulling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e485b13ddd4d8770",
+            "id": "1c268cf3c908d514",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Game Architecture Research/Research General Structure.md",
+                "file": "Climbing/General Strength Training Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9d7efd8930fef160",
+            "id": "c3d5c80277535812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
+                "file": "Climbing/Horizontal Pulling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bae4854d040d9a5f",
+            "id": "f1c1e5002a122cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Game Architecture Research/Case Studies/Unreal Gameplay Framework.md",
+                "file": "Climbing/Compressing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf22d9896db260b6",
+            "id": "02cd9a23a542bb44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Game Architecture Research/Research General Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19df9b30f2c6bd1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Game Architecture Research/Quality Attributes/Flexibility.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c47ec2b80638454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Game Architecture Research/Quality Attributes/Usability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3664e64dfb5b15ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7533b409b536ba4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-02-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69a0f88d77e3a5cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Godot Notes/General Thoughts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3aa5b87e75860d84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Focus and Productivity/One Sec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efe0b36d1d0e0e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-03-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75b7e65a7c60d2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Godot Notes/General Thoughts.md",
+                "file": "Climbing/Horizontal Pulling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -213,6 +117,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "bcc54d121fc17e85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -234,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
+                "file": "Climbing/Horizontal Pulling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,8 +174,24 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "3664e64dfb5b15ee",
+  "active": "07b851a6e7dbd82c",
   "lastOpenFiles": [
+    "Climbing/Pushing.md",
+    "Climbing/Vertical Pulling.md",
+    "Postmortems/When Push Comes to Shove.md",
+    "Climbing/Horizontal Pulling.md",
+    "Climbing/Compressing.md",
+    "Climbing/General Strength Training Notes.md",
+    "Climbing/Shoulder External Rotation.md",
+    "Focus and Productivity/Flow State (Unwritten).md",
+    "Focus and Productivity/Task Transitions.md",
+    "Climbing",
+    "Postmortems/MultiMouse.md",
+    "Focus and Productivity/One Sec.md",
+    "Software Engineering/Godot Notes/General Thoughts.md",
+    "Daily Notes/2023-03-16.md",
+    "Daily Notes/2023-02-19.md",
+    "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
     "Software Engineering/Game Architecture Research/Case Studies/Unreal Gameplay Framework.md",
     "Software Engineering/Game Architecture Research/Decoupling.md",
     "Software Engineering/Game Architecture Research/Quality Attributes/Flexibility.md",
@@ -276,21 +204,7 @@
     "Software Engineering/Game Architecture Research/Standard Coupling Ranking.md",
     "Software Engineering/Game Architecture Research/Quality Attributes",
     "Software Engineering/Game Architecture Research/Threads to pull on.md",
-    "Software Engineering/Game Architecture Research/New descriptor of coupling.md",
-    "Software Engineering/Game Architecture Research/Information Flow.md",
-    "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
     "Software Engineering/Game Architecture Research/Case Studies",
-    "Software Engineering/Game Architecture Research/Overview.md",
-    "Daily Notes/2023-03-16.md",
-    "Daily Notes/2023-02-27.md",
-    "Software Engineering/Godot Notes/Languages.md",
-    "Software Engineering/Godot Notes/Instancing.md",
-    "Software Engineering/Godot Notes/General Thoughts.md",
-    "Software Engineering/Godot Notes/Signals.md",
-    "Software Engineering/Godot Notes/Node Tree.md",
-    "Building a Computer.md",
-    "Focus and Productivity/Task Transitions.md",
-    "Daily Notes/2023-02-19.md",
     "Focus and Productivity"
   ]
 }
