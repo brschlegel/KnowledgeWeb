@@ -4,31 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "b9c2316c5d7d3d87",
+        "id": "97b4665c48370fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "5120704b9d9dd59d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "064bf506a6aa8b5f",
+            "id": "53515c7e1e242789",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Notes/Puzzle Games/Pawnbarian.md",
+                "file": "Postmortems/When Push Comes to Shove.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cab3e6c4e7c5513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Climbing/Vertical Pulling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c268cf3c908d514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Climbing/General Strength Training Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3d5c80277535812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Climbing/Horizontal Pulling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1c1e5002a122cb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Climbing/Compressing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02cd9a23a542bb44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Climbing/Horizontal Pulling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -67,7 +119,7 @@
             }
           },
           {
-            "id": "15dae88a0477b7e3",
+            "id": "bcc54d121fc17e85",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Notes/Puzzle Games/Pawnbarian.md",
+                "file": "Climbing/Horizontal Pulling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +174,29 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "064bf506a6aa8b5f",
+  "active": "07b851a6e7dbd82c",
   "lastOpenFiles": [
-    "Design Notes/Crafting Games/Raft.md",
-    "Design Notes/Puzzle Games/Pawnbarian.md",
-    "Design Notes/FPS/Overwatch Meta 11-2-22.md",
-    "Building a Computer.md",
-    "Design Notes/Puzzle Games",
-    "Software Engineering/Game Architecture Research/Quality Attributes/Usability.md",
+    "Climbing/Pushing.md",
+    "Climbing/Vertical Pulling.md",
+    "Postmortems/When Push Comes to Shove.md",
+    "Climbing/Horizontal Pulling.md",
+    "Climbing/Compressing.md",
+    "Climbing/General Strength Training Notes.md",
+    "Climbing/Shoulder External Rotation.md",
+    "Focus and Productivity/Flow State (Unwritten).md",
+    "Focus and Productivity/Task Transitions.md",
+    "Climbing",
+    "Postmortems/MultiMouse.md",
+    "Focus and Productivity/One Sec.md",
+    "Software Engineering/Godot Notes/General Thoughts.md",
+    "Daily Notes/2023-03-16.md",
+    "Daily Notes/2023-02-19.md",
     "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
     "Software Engineering/Game Architecture Research/Case Studies/Unreal Gameplay Framework.md",
     "Software Engineering/Game Architecture Research/Decoupling.md",
     "Software Engineering/Game Architecture Research/Quality Attributes/Flexibility.md",
     "Software Engineering/Game Architecture Research/Quality Attributes/Quality Attribute.md",
+    "Software Engineering/Game Architecture Research/Quality Attributes/Usability.md",
     "Software Engineering/Game Architecture Research/System Boundaries.md",
     "Software Engineering/Game Architecture Research/Software Modules.md",
     "Software Engineering/Game Architecture Research/Research General Structure.md",
@@ -142,17 +204,7 @@
     "Software Engineering/Game Architecture Research/Standard Coupling Ranking.md",
     "Software Engineering/Game Architecture Research/Quality Attributes",
     "Software Engineering/Game Architecture Research/Threads to pull on.md",
-    "Software Engineering/Game Architecture Research/New descriptor of coupling.md",
-    "Software Engineering/Game Architecture Research/Information Flow.md",
     "Software Engineering/Game Architecture Research/Case Studies",
-    "Software Engineering/Game Architecture Research/Overview.md",
-    "Daily Notes/2023-03-16.md",
-    "Daily Notes/2023-02-27.md",
-    "Software Engineering/Godot Notes/Languages.md",
-    "Software Engineering/Godot Notes/Instancing.md",
-    "Software Engineering/Godot Notes/General Thoughts.md",
-    "Software Engineering/Godot Notes/Signals.md",
-    "Software Engineering/Godot Notes/Node Tree.md",
     "Focus and Productivity"
   ]
 }
