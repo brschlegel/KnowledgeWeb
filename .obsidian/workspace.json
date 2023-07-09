@@ -4,179 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "201ef4c08da47d87",
+        "id": "b9c2316c5d7d3d87",
         "type": "tabs",
         "children": [
           {
-            "id": "ad988555b82675bf",
+            "id": "5120704b9d9dd59d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Godot Notes/Best Practices.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "7908cb862eae8c47",
+            "id": "064bf506a6aa8b5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Declarative vs Impertative Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e485b13ddd4d8770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Game Architecture Research/Research General Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d7efd8930fef160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bae4854d040d9a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Game Architecture Research/Case Studies/Unreal Gameplay Framework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf22d9896db260b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Game Architecture Research/Research General Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19df9b30f2c6bd1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Game Architecture Research/Quality Attributes/Flexibility.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c47ec2b80638454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Game Architecture Research/Quality Attributes/Usability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3664e64dfb5b15ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7533b409b536ba4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-02-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69a0f88d77e3a5cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Godot Notes/General Thoughts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3aa5b87e75860d84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Focus and Productivity/One Sec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efe0b36d1d0e0e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-03-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75b7e65a7c60d2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Godot Notes/General Thoughts.md",
+                "file": "Design Notes/Puzzle Games/Pawnbarian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,6 +65,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "15dae88a0477b7e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -234,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
+                "file": "Design Notes/Puzzle Games/Pawnbarian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,13 +122,19 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "3664e64dfb5b15ee",
+  "active": "064bf506a6aa8b5f",
   "lastOpenFiles": [
+    "Design Notes/Crafting Games/Raft.md",
+    "Design Notes/Puzzle Games/Pawnbarian.md",
+    "Design Notes/FPS/Overwatch Meta 11-2-22.md",
+    "Building a Computer.md",
+    "Design Notes/Puzzle Games",
+    "Software Engineering/Game Architecture Research/Quality Attributes/Usability.md",
+    "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
     "Software Engineering/Game Architecture Research/Case Studies/Unreal Gameplay Framework.md",
     "Software Engineering/Game Architecture Research/Decoupling.md",
     "Software Engineering/Game Architecture Research/Quality Attributes/Flexibility.md",
     "Software Engineering/Game Architecture Research/Quality Attributes/Quality Attribute.md",
-    "Software Engineering/Game Architecture Research/Quality Attributes/Usability.md",
     "Software Engineering/Game Architecture Research/System Boundaries.md",
     "Software Engineering/Game Architecture Research/Software Modules.md",
     "Software Engineering/Game Architecture Research/Research General Structure.md",
@@ -278,7 +144,6 @@
     "Software Engineering/Game Architecture Research/Threads to pull on.md",
     "Software Engineering/Game Architecture Research/New descriptor of coupling.md",
     "Software Engineering/Game Architecture Research/Information Flow.md",
-    "Software Engineering/Game Architecture Research/Case Studies/Minecraft Modding.md",
     "Software Engineering/Game Architecture Research/Case Studies",
     "Software Engineering/Game Architecture Research/Overview.md",
     "Daily Notes/2023-03-16.md",
@@ -288,9 +153,6 @@
     "Software Engineering/Godot Notes/General Thoughts.md",
     "Software Engineering/Godot Notes/Signals.md",
     "Software Engineering/Godot Notes/Node Tree.md",
-    "Building a Computer.md",
-    "Focus and Productivity/Task Transitions.md",
-    "Daily Notes/2023-02-19.md",
     "Focus and Productivity"
   ]
 }
